@@ -10,7 +10,7 @@ Each case documents the problem, the tools and steps used to fix it, and the les
 
 📂 Case Studies
 
-📄 Gmail Login Recovery (./Gmail%20Login%20Recovery)
+📄 Gmail Login Recovery (https://github.com/FaithBabs/Help-Desk-Portfolio/tree/main/Gmail%20Login%20Recovery)
   
 🛠️ More case studies coming soon:
   
@@ -38,12 +38,6 @@ I'm building this as a showcase of my practical IT support skills as I transitio
 If you're a hiring manager or mentor, feel free to review the cases and reach out with feedback or questions!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-📬 Contact
-
-You can reach me via:
-
-- GitHub: 
 
 
 
