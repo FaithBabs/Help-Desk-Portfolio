@@ -10,7 +10,7 @@ Each case documents the problem, the tools and steps used to fix it, and the les
 
 📂 Case Studies
 
-📄 Gmail Login Recovery (Gmail Login Recovery)
+📄 Gmail Login Recovery (./Gmail%20Login%20Recovery)
   
 🛠️ More case studies coming soon:
   
