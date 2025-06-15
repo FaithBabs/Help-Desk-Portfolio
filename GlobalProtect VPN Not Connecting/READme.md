@@ -1,7 +1,9 @@
 ## Help Desk Ticket: GlobalProtect VPN Not Connecting
 
 Date: 2025-05-29 
+
 Category: Remote Access / VPN / Networking  
+
 Environment: GlobalProtect VPN Client  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
