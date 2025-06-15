@@ -4,13 +4,13 @@ Date:2025-06-10
 Category: Account Access / MFA 
 Environment:Office365 (Microsoft Authenticator) 
 
-## Problem Description
+#### Problem Description
 
 Customer contacted support stating they were unable to complete two-factor authentication (2FA) when trying to log in to their account. They were receiving a timeout error or no notification on their mobile device.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Initial Observations
+#### Initial Observations
 
 1. Confirmed that the user was entering the correct username and password.
 2.  Verified that the user had 2FA enabled and was using Microsoft Authenticator.
@@ -18,7 +18,7 @@ Customer contacted support stating they were unable to complete two-factor authe
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Troubleshooting Steps
+#### Troubleshooting Steps
 
 1. Checked the user’s 2FA settings in the admin portal.
 2. Noticed the device associated with their account was inactive.
@@ -29,13 +29,13 @@ Customer contacted support stating they were unable to complete two-factor authe
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Resolution
+#### Resolution
 
 User successfully re-registered their device with the Authenticator app and completed the 2FA login without issues. Confirmed they could log in multiple times afterward.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Tools/Systems Used
+#### Tools/Systems Used
 
 1. Microsoft 365 Admin Center
 2. Microsoft Authenticator App
@@ -43,7 +43,7 @@ User successfully re-registered their device with the Authenticator app and comp
 
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Lessons Learned
+#### Lessons Learned
 
 1. Many 2FA issues occur after phone changes or app reinstallations.
 2. It's helpful to proactively ask about device changes before troubleshooting deeper.
