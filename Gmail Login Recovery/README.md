@@ -1,12 +1,24 @@
-## Case Study: Gmail Login Recovery
+## Help Desk Ticket: Gmail Login Recovery
 
-##  User:
+Date: 2025-04-23 
+Category: GMAIL 
+Environment: GoogleSuite/ Google recovery 
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+#### User Information
+
 My mom – non-technical user experiencing email access issues.
 
-## Problem:
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Problem Description
+
 The user was unable to log in to her Gmail account due to a forgotten password. She was unable to access important emails and felt frustrated and stuck.
 
-##  Troubleshooting Steps:
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+####  Troubleshooting Steps:
 
 1. Navigated to the official [Gmail Recovery Page](https://accounts.google.com/signin/recovery).
 2. Entered the phone number and recovery email linked to the account.
@@ -16,13 +28,19 @@ The user was unable to log in to her Gmail account due to a forgotten password. 
 6. Entered the code and selected the correct Google account.
 7. Regained access and logged into Gmail successfully.
 
-## Resolution:
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Resolution:
 The account was recovered using phone based verification. A new password was created and safely stored. The user was successfully logged in and able to access email.
 
-##  Tools Used:
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+####  Tools Used:
  Gmail Account Recovery Page (in Chrome browser)
 
-##  Lessons Learned:
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+####  Lessons Learned:
 1. Google’s recovery system is effective when phone and email backups are set up correctly.
 2. Users don't need their last password to recover access, as long as identity can be verified through recovery options.
 3. It's important to keep recovery info updated especially for non-technical users who may forget credentials.
