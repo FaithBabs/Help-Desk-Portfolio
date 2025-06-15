@@ -32,7 +32,7 @@ While attempting to start my shift remotely, I was unable to connect to the corp
 
 #### Troubleshooting Steps
 
-1. **Restarted GlobalProtect** client and attempted reconnection.
+1. Restarted GlobalProtect client and attempted reconnection.
 2. Verified VPN portal was entered correctly in the client.
 3. Checked Wi-Fi and firewall settings to ensure the connection wasn’t blocked.
 4. Cleared saved credentials and quit the app.
