@@ -8,7 +8,7 @@ This is a collection of real-world troubleshooting case studies based on hands-o
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Case Studies
+#### Case Studies
 
   - Gmail Login Recovery (https://github.com/FaithBabs/Help-Desk-Portfolio/tree/main/Gmail%20Login%20Recovery)
 
@@ -23,7 +23,7 @@ This is a collection of real-world troubleshooting case studies based on hands-o
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Tools & Skills Demonstrated
+#### Tools & Skills Demonstrated
 
 - Password recovery and identity verification
 - Clear documentation of technical steps
@@ -33,7 +33,7 @@ This is a collection of real-world troubleshooting case studies based on hands-o
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Purpose of This Portfolio
+#### Purpose of This Portfolio
 
 I'm building this as a showcase of my practical IT support skills as I transition into a professional help desk role. Every example here is based on real interactions and problems I've solved for others.
 
