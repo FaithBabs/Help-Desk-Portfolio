@@ -1,7 +1,9 @@
 ## Help Desk Ticket: Gmail Login Recovery
 
 Date: 2025-04-23 
+
 Category: GMAIL 
+
 Environment: GoogleSuite/ Google recovery 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
