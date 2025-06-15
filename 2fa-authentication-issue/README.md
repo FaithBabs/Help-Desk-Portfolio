@@ -1,7 +1,9 @@
 ## Help Desk Ticket: Two-Factor Authentication Not Working
 
 Date:2025-06-10 
+
 Category: Account Access / MFA 
+
 Environment:Office365 (Microsoft Authenticator) 
 
 #### Problem Description
