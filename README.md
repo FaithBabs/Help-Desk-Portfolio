@@ -1,4 +1,4 @@
-## Help-Desk-Portfolio
+# Help-Desk-Portfolio
 
 Welcome to my Help Desk Portfolio. 
 This is a collection of real-world troubleshooting case studies based on hands-on experience solving common technical issues for everyday users.
