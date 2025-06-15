@@ -13,6 +13,9 @@ This is a collection of real-world troubleshooting case studies based on hands-o
   - Gmail Login Recovery (https://github.com/FaithBabs/Help-Desk-Portfolio/tree/main/Gmail%20Login%20Recovery)
 
   - 2fa Authentication Issue (https://github.com/FaithBabs/Help-Desk-Portfolio/tree/main/2fa-authentication-issue)
+
+  - [GlobalProtect VPN Not Connecting](https://github.com/FaithBabs/Help-Desk-Portfolio/tree/main/GlobalProtect%20VPN%20Not%20Connecting)
+
   
 🛠️ More case studies coming soon:
   
