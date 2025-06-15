@@ -6,6 +6,8 @@ Category: Account Access / MFA
 
 Environment:Office365 (Microsoft Authenticator) 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### Problem Description
 
 Customer contacted support stating they were unable to complete two-factor authentication (2FA) when trying to log in to their account. They were receiving a timeout error or no notification on their mobile device.
