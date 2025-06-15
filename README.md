@@ -3,7 +3,7 @@
 Welcome to my Help Desk Portfolio. 
 This is a collection of real-world troubleshooting case studies based on hands-on experience solving common technical issues for everyday users.
 
-# Each case documents the problem, the tools and steps used to fix it, and the lessons learned, just like in a real IT support or help desk environment.
+### Each case documents the problem, the tools and steps used to fix it, and the lessons learned, just like in a real IT support or help desk environment.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
