@@ -10,7 +10,8 @@ This is a collection of real-world troubleshooting case studies based on hands-o
 
 ## Case Studies
 
-📄 Gmail Login Recovery (https://github.com/FaithBabs/Help-Desk-Portfolio/tree/main/Gmail%20Login%20Recovery)
+Gmail Login Recovery (https://github.com/FaithBabs/Help-Desk-Portfolio/tree/main/Gmail%20Login%20Recovery)
+
 2fa Authentication Issue (https://github.com/FaithBabs/Help-Desk-Portfolio/tree/main/2fa-authentication-issue)
   
 🛠️ More case studies coming soon:
