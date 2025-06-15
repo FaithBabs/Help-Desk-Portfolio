@@ -49,11 +49,11 @@ While attempting to start my shift remotely, I was unable to connect to the corp
 
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Tools/Systems Used
-GlobalProtect VPN Client
+- GlobalProtect VPN Client
 
-**macOS Terminal**: launchctl unload / load commands
+- **macOS Terminal**: launchctl unload / load commands
 
-System Preferences (Network & Firewall settings)
+- System Preferences (Network & Firewall settings)
 
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
