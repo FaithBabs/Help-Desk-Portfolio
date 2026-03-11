@@ -4,7 +4,7 @@ Welcome to my Technical Support Portfolio. This is a collection of real-world tr
 
 Each case documents the problem, the tools and steps used to fix it, and the lessons learned, just like in a real IT support or technical operations environment.
 
-## Case Studies
+#### Case Studies
 
 * **Gmail Login Recovery**
 * **2FA Authentication Issue**
@@ -16,7 +16,7 @@ Each case documents the problem, the tools and steps used to fix it, and the les
 * Password manager setup
 * Home network not working
 
-## Tools & Skills Demonstrated
+#### Tools & Skills Demonstrated
 
 * Password recovery and identity verification
 * Clear documentation of technical steps
@@ -25,7 +25,7 @@ Each case documents the problem, the tools and steps used to fix it, and the les
 * Windows tools: Xbox Game Bar (for screen recording), browser-based solutions
 * Remote troubleshooting and user support
 
-## Key Achievements
+#### Key Achievements
 
 * Successfully resolved 100+ technical support cases with 90%+ user satisfaction
 * Developed clear, step-by-step documentation enabling users to self-resolve common issues
